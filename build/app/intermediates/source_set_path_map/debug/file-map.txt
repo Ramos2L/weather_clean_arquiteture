@@ -1,0 +1,17 @@
+com.example.weather_clean_arq.app-jetified-window-1.0.0-beta04-0 /home/lucas/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.weather_clean_arq.app-jetified-play-services-basement-18.1.0-1 /home/lucas/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.example.weather_clean_arq.app-jetified-play-services-base-18.1.0-2 /home/lucas/.gradle/caches/transforms-3/781e5567158e59d38ee2b89930f9808b/transformed/jetified-play-services-base-18.1.0/res
+com.example.weather_clean_arq.app-jetified-annotation-experimental-1.3.0-3 /home/lucas/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.weather_clean_arq.app-lifecycle-runtime-2.3.1-4 /home/lucas/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.weather_clean_arq.app-jetified-window-java-1.0.0-beta04-5 /home/lucas/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.weather_clean_arq.app-core-1.9.0-6 /home/lucas/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/res
+com.example.weather_clean_arq.app-debug-7 /home/lucas/StudioProjects/weather_clean_arq/android/app/src/debug/res
+com.example.weather_clean_arq.app-main-8 /home/lucas/StudioProjects/weather_clean_arq/android/app/src/main/res
+com.example.weather_clean_arq.app-pngs-9 /home/lucas/StudioProjects/weather_clean_arq/build/app/generated/res/pngs/debug
+com.example.weather_clean_arq.app-resValues-10 /home/lucas/StudioProjects/weather_clean_arq/build/app/generated/res/resValues/debug
+com.example.weather_clean_arq.app-rs-11 /home/lucas/StudioProjects/weather_clean_arq/build/app/generated/res/rs/debug
+com.example.weather_clean_arq.app-mergeDebugResources-12 /home/lucas/StudioProjects/weather_clean_arq/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.weather_clean_arq.app-mergeDebugResources-13 /home/lucas/StudioProjects/weather_clean_arq/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.weather_clean_arq.app-merged_res-14 /home/lucas/StudioProjects/weather_clean_arq/build/app/intermediates/merged_res/debug
+com.example.weather_clean_arq.app-packaged_res-15 /home/lucas/StudioProjects/weather_clean_arq/build/geocoding_android/intermediates/packaged_res/debug
+com.example.weather_clean_arq.app-packaged_res-16 /home/lucas/StudioProjects/weather_clean_arq/build/geolocator_android/intermediates/packaged_res/debug
