@@ -1,4 +1,4 @@
-#Wed Dec 20 00:13:50 BRT 2023
+#Wed Dec 20 00:32:25 BRT 2023
 base.0=/home/lucas/StudioProjects/weather_clean_arq/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
